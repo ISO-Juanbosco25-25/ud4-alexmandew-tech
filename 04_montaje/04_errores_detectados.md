@@ -1,6 +1,6 @@
 # ❌ ERRORES DETECTADOS EN EL MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno:Alejandro Robla Arias
 ## 🖥️ Equipo:
 
 ---
