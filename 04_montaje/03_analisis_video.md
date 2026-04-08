@@ -1,7 +1,7 @@
 # 🔍 ANÁLISIS DEL VÍDEO DE MONTAJE
 
-## 👨‍💻 Alumno:
-## 🖥️ Equipo:
+## 👨‍💻 Alumno: Alejandro Robla Arias
+## 🖥️ Equipo: 
 
 ---
 
@@ -13,7 +13,7 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 ## 🎬 VÍDEO ANALIZADO
 
-📌 Enlace al vídeo:
+📌 Enlace al vídeo: https://www.canva.com/design/DAHFEkonyiU/q_rxUm6RuVXpXeH49rTalw/watch?utm_content=DAHFEkonyiU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f3cdbcdb3 
 
 ---
 
