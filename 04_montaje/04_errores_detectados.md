@@ -22,25 +22,25 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 1
 
-📌 Descripción:
+📌 Descripción: El ordenador no enciende
 (¿Qué ha ocurrido?)
 
-📌 Tipo:
+📌 Tipo: Real
 (Real / Simulado)
 
-📌 Fase del montaje:
+📌 Fase del montaje: Cableado
 (Ejemplo: instalación de RAM, cableado, etc.)
 
-📌 Causa:
+📌 Causa: Porque los cables frontales estaban mal colocados
 (¿Por qué ocurre?)
 
-📌 Consecuencia:
+📌 Consecuencia: El ordenador no enciende
 (¿Qué problema provoca?)
 
-📌 Solución aplicada o propuesta:
+📌 Solución aplicada o propuesta: Buscar en google el orden de los cables.
 (¿Cómo se soluciona?)
 
-📌 ¿Cómo prevenirlo?
+📌 ¿Cómo prevenirlo? Buscando antes el orden de los cables
 (Qué harías para evitarlo)
 
 📸 Evidencia (si aplica):
@@ -49,19 +49,19 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 2
 
-📌 Descripción:
+📌 Descripción:La RAM sale disparada hacia arriba cuando la quito.
 
-📌 Tipo:
+📌 Tipo: Real
 
-📌 Fase del montaje:
+📌 Fase del montaje: Instalación de RAM
 
-📌 Causa:
+📌 Causa: No se ha presionado bien la RAM para instalarla.
 
-📌 Consecuencia:
+📌 Consecuencia: Sale disparada al quitarla
 
-📌 Solución:
+📌 Solución: Presionar bien la RAM hasta oír un click
 
-📌 Prevención:
+📌 Prevención: Mirar bien si la RAM está bien insertada.
 
 📸 Evidencia:
 
@@ -69,19 +69,19 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 3
 
-📌 Descripción:
+📌 Descripción: No encuentro el tamaño correcto de los tornillos para cada componente.
 
-📌 Tipo:
+📌 Tipo: Simulado
 
-📌 Fase del montaje:
+📌 Fase del montaje: Instalación de los componentes principales
 
-📌 Causa:
+📌 Causa: No he dejado al lado de los componentes los tornillos al desmontar el ordenador
 
-📌 Consecuencia:
+📌 Consecuencia: No encuentro los tornillos de los componentes
 
-📌 Solución:
+📌 Solución: Al desmontar el ordenador, dejar los tornillos al lado de cada componente 
 
-📌 Prevención:
+📌 Prevención:No perder los tornillos
 
 📸 Evidencia:
 
@@ -90,7 +90,8 @@ Debes documentar al menos **3 errores**:
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Qué error te parece más grave? ¿Por qué?
-
+  El ERROR 2. Porque si la RAM sale disparada podría romperse.
 - ¿Qué error es más común en principiantes?
-
+Colocar mal los cables frontales.
 - ¿Qué has aprendido sobre la importancia de montar correctamente un equipo?
+Siempre usa el orden correcto al montar los componentes para que no te estorben los cables ni los componentes entre sí.
