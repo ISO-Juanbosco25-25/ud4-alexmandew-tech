@@ -1,6 +1,6 @@
 # ✅ BUENAS PRÁCTICAS EN EL MONTAJE DE EQUIPOS
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno:Alejandro Robla Arias
 ## 🖥️ Equipo:
 
 ---
@@ -19,9 +19,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 1. SEGURIDAD
 
-- 
-- 
-- 
+- Usar guantes para evitar cortes
+- Usar una pulsera antiestática
+- Desconectar el equipo de la corriente eléctrica
 
 💡 Ejemplo: descargar electricidad estática antes de manipular componentes
 
@@ -29,9 +29,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧰 2. USO DE HERRAMIENTAS
 
-- 
-- 
-- 
+- Echar la cantidad adecuada de pasta térmica 
+- Usar la punta adecuada del destornillador para quitar los tornillos más rápido
+- Usar pulseras antiestáticas.
 
 💡 Ejemplo: usar herramientas adecuadas para no dañar los componentes
 
@@ -39,9 +39,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧩 3. MONTAJE DE COMPONENTES
 
-- 
-- 
-- 
+- No tirar de los cables
+- Colocar bien los tornillos.
+- Recordar la posición de los cables.
 
 💡 Ejemplo: no forzar los componentes al instalarlos
 
@@ -49,9 +49,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 4. CONEXIONES Y CABLEADO
 
-- 
-- 
-- 
+- Hacer una foto de los cables antes de desenchufarlos
+- Evitar los líquidos
+- No enredar los cables
 
 💡 Ejemplo: comprobar todas las conexiones antes de encender
 
@@ -59,9 +59,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🌡️ 5. ORGANIZACIÓN Y VENTILACIÓN
 
-- 
-- 
-- 
+- Colocar bien la dirección del ventilador
+- Instalar primero los componentes principales
+- Hacer el cableado por último
 
 💡 Ejemplo: ordenar los cables para facilitar el flujo de aire
 
@@ -69,9 +69,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧠 6. COMPROBACIONES FINALES
 
-- 
-- 
-- 
+- Revisar todos los cables
+- Revisar que no sobren tornillos
+- que los componentes esten bien instalados
 
 💡 Ejemplo: revisar que todo está bien conectado antes del primer arranque
 
@@ -79,9 +79,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 💼 7. ACTITUD PROFESIONAL
 
-- 
-- 
-- 
+- Tener la mesa limpia y ordenada
+- Recoger los destornilladores
+- No traer comida ni bebida
 
 💡 Ejemplo: trabajar con orden, limpieza y cuidado del material
 
