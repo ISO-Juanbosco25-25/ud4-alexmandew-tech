@@ -23,12 +23,12 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 ## 🧩 Fase 1: Preparación
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo:00:00-11:41
 
 📌 ¿Qué se hace en esta fase?
-
+Preparar las herramientas y los componentes del ordenador para montarlo.
 📌 ¿Se realiza correctamente? (Sí / No / Parcialmente)
-
+Sí.
 📌 Observaciones:
 - Organización del espacio
 - Uso de herramientas
@@ -36,26 +36,26 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 📌 Valoración técnica:
 (Explica si está bien hecho y por qué)
-
+Sí, está bien hecho porque no sobran/faltan tornillos y tengo todos los componentes.
 ---
 
 ## 🧩 Fase 2: Instalación de componentes principales
 
 (CPU, RAM, placa base)
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo: 11:42-21:10
 
 📌 ¿Qué se hace?
-
+Instalar correctamente la CPU,la RAM y la placa base sin que falten tornillos.
 📌 ¿Se realiza correctamente?
-
+Sí
 📌 Problemas observados:
-
+Hay que apretar por ambos lados hacia abajo en la RAM hasta oir un click, confundirme con el tamaño de los tornillos.
 📌 Riesgos detectados:
 (Ejemplo: mala colocación, presión incorrecta, etc.)
-
+Apretar poco la RAM, colocar mal los tornillos
 📌 Valoración técnica:
-
+He acabado haciendolo bien pero se me complicó colocar los tornillos porque me equivoqué de tamaño
 ---
 
 ## 🧩 Fase 3: Instalación de almacenamiento
