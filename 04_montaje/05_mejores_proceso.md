@@ -1,6 +1,6 @@
 # 🔧 PROPUESTAS DE MEJORA DEL PROCESO DE MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno:Alejandro Robla Arias
 ## 🖥️ Equipo:
 
 ---
